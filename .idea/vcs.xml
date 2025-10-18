@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/project-Kubernetes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform-eks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform_eks_project_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform_eks_project_7" vcs="Git" />
+  </component>
+</project>
